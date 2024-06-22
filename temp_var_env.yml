@@ -1,0 +1,19 @@
+name: temp_var
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - matplotlib
+  - scipy
+  - netcdf4
+  - scikit-learn
+  - jupyter
+  - xarray
+  - intake-esm
+  - nc-time-axis
+  - cartopy
+  - xesmf
+  - xmip
+  - zarr
+  - gcsfs
+  - cftime
